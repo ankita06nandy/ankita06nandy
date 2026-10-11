@@ -1,29 +1,19 @@
 
-<!--
-  ANKITA NANDY | GitHub Profile
-  Visual direction: Soft editorial / espresso / warm ivory
--->
-
 <div align="center">
 
-  <h1>Ankita Nandy</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:49372D,50:765C49,100:B7A28B&text=ANKITA%20NANDY&fontColor=F4EEE6&fontSize=42&fontAlignY=38&desc=AI%20%2F%20SOFTWARE%20ENGINEERING&descSize=14&descAlignY=58&animation=fadeIn" alt="Ankita Nandy"/>
 
-  <p>
-    <strong>AI &nbsp;·&nbsp; Software Engineering &nbsp;·&nbsp; Product Development</strong>
-  </p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=900&color=8B7565&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications;Engineering+solutions+to+real+problems;Learning.+Experimenting.+Shipping.;Computer+Science+%7C+AI+%7C+Software" alt="Animated introduction"/>
 
-  <p>
-    Computer Science and Engineering student building practical software
-    and exploring how AI can solve real-world problems.
-  </p>
+<br/>
 
-  <a href="https://github.com/ankita06nandy?tab=repositories">
-    <img src="https://img.shields.io/badge/Selected_Work-554438?style=flat-square&labelColor=554438&color=E9DFD2" alt="Selected work"/>
-  </a>
-  &nbsp;
-  <a href="https://ankita06nandy.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-554438?style=flat-square&labelColor=554438&color=E9DFD2" alt="Portfolio"/>
-  </a>
+<a href="https://github.com/ankita06nandy?tab=repositories">
+<img src="https://img.shields.io/badge/REPOSITORIES-49372D?style=flat-square&logo=github&logoColor=F4EEE6" alt="Repositories"/>
+</a>
+&nbsp;
+<a href="https://ankita06nandy.github.io/">
+<img src="https://img.shields.io/badge/PORTFOLIO-765C49?style=flat-square&logo=vercel&logoColor=F4EEE6" alt="Portfolio"/>
+</a>
 
 </div>
 
@@ -33,105 +23,107 @@
 <tr>
 <td width="58%" valign="top">
 
-### PROFILE
+## 01 / PROFILE
 
-I'm a Computer Science and Engineering student interested in the intersection of artificial intelligence and software engineering.
+I'm Ankita Nandy, a Computer Science and Engineering student interested in the intersection of artificial intelligence and software engineering.
 
-I enjoy taking ideas from concept to implementation, exploring new technologies, and collaborating on projects that address real problems.
+I enjoy turning ideas into functional products, exploring emerging technologies, and developing solutions to practical problems.
 
 **Areas of focus**
-
 - AI-powered applications and Generative AI
 - Software development and problem solving
 - Deep learning and applied machine learning
-- Building useful, user-centered products
+- Building practical, user-centered products
 
-**Current approach:** Learn the fundamentals, build practical systems, and improve through iteration.
+**Approach:** Learn → Build → Test → Improve
 
 </td>
 <td width="42%" valign="top">
 
-### DEVELOPER CONSOLE
+## DEVELOPER CONSOLE
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=13&duration=3200&pause=1200&color=8B7562&center=true&vCenter=true&width=300&lines=%24+whoami+%E2%86%92+ankita06nandy;%24+focus+%E2%86%92+AI+%2B+SWE;%24+mode+%E2%86%92+build+%26+iterate;%24+git+commit+-m+%22keep+learning%22" alt="Rotating developer terminal messages"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3200&pause=1200&color=8B7565&center=true&vCenter=true&width=300&lines=%24+whoami+%E2%86%92+ankita06nandy;%24+focus+%E2%86%92+AI+%2B+SWE;%24+mode+%E2%86%92+build+%26+iterate;%24+git+commit+-m+%22keep+learning%22" alt="Rotating terminal messages"/>
 
-<p>
-  <code>status: learning & building</code>
-</p>
+<p><code>status: learning & building</code></p>
 
-<p>
-  <a href="https://github.com/ankita06nandy">
-    GitHub profile ↗
-  </a>
-</p>
+<a href="https://github.com/ankita06nandy">GitHub profile ↗</a>
 
 </td>
 </tr>
 </table>
 
-## SELECTED PROJECTS
+---
 
-Projects focused on applied AI, developer tools, and socially useful technology.
+## 02 / SELECTED PROJECTS
 
-### 01 — Git Buddy AI
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Generative AI · Developer Tools**
+### Git Buddy AI
 
-An AI-powered developer project built as part of my AI EmpowerHer capstone journey.
+`GENERATIVE AI` · `DEVELOPER TOOLS`
 
-- Built with Streamlit and Google's Gemini 2.5 Flash model.
-- Explores how generative AI can support developer workflows.
-- Developed as a practical application of AI concepts.
+An AI-powered application developed as part of my AI EmpowerHer capstone journey.
+
+- Python-based application
+- Streamlit interface
+- Gemini 2.5 Flash integration
+- Exploring AI-assisted developer workflows
 
 **Stack:** Python · Streamlit · Gemini API
 
-[View source code →](https://github.com/ankita06nandy/gitbuddy_ai)
+[VIEW REPOSITORY ↗](https://github.com/ankita06nandy/gitbuddy_ai)
 
----
+</td>
+<td width="50%" valign="top">
 
-### 02 — RightsQuest
+### RightsQuest
 
-**Accessibility · Education · Social Impact**
+`ACCESSIBILITY` · `SOCIAL IMPACT`
 
-A platform designed to help people learn about disability rights and advocacy through interactive experiences.
+An interactive platform for learning about disability rights and advocacy.
 
-- Real-life simulations for experiential learning.
-- A rights and resource library.
-- Progress tracking and a community-oriented support hub.
-- Designed to make disability-rights information more accessible.
+- Real-life simulations
+- Rights and resource library
+- Progress tracking
+- Community and support hub
 
 **Stack:** React · Vite · Express · MongoDB
 
-[Repository →](https://github.com/ankita06nandy/RightsQuest) · [Live application →](https://rights-quest-dun.vercel.app)
+[VIEW REPOSITORY ↗](https://github.com/ankita06nandy/RightsQuest)
+
+[OPEN LIVE DEMO ↗](https://rights-quest-dun.vercel.app)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## TECHNICAL TOOLKIT
+## 03 / TECHNOLOGY
 
-**Programming languages**
+<div align="center">
 
-`Python` `C` `C++`
+<img src="https://skillicons.dev/icons?i=python,c,cpp,react,vite,express,mongodb,git,github,streamlit,pytorch&theme=light" alt="Technology stack"/>
 
-**AI and machine learning**
+</div>
 
-`Generative AI` `Machine Learning` `Deep Learning` `PyTorch — learning`
-
-**Web and application development**
-
-`React` `Vite` `Streamlit` `Express.js`
-
-**Data and developer tools**
-
-`MongoDB` `NumPy` `Pandas` `Matplotlib` `Git` `GitHub`
-
-My toolkit continues to evolve as I work on projects and strengthen my engineering fundamentals.
+| Category | Technologies |
+|:--|:--|
+| Programming | Python, C, C++ |
+| AI & ML | Generative AI, Machine Learning, Deep Learning |
+| Development | React, Vite, Streamlit, Express |
+| Data | MongoDB, NumPy, Pandas, Matplotlib |
+| Tools | Git, GitHub |
+| Currently learning | PyTorch |
 
 ---
 
-## EXPERIENCE & RECOGNITION
+## 04 / EXPERIENCE & RECOGNITION
 
 **Microsoft Student Ambassadors — GNIT Chapter**  
-Core team member, contributing to student developer community initiatives and technical events.
+Core team member contributing to student developer community initiatives and technical events.
 
 **Bharat Unnati AI Fellowship**  
 Participating in an AI-focused fellowship.
@@ -139,36 +131,53 @@ Participating in an AI-focused fellowship.
 **EY × Microsoft AI Skills Passport**  
 Completed the AI learning program.
 
-**Microsoft Learn — Data Science**  
-Completed Phase 2 learning activities, earning badges, trophies, and a certificate.
+**Microsoft Learn — Phase 2 Data Science**  
+Completed learning activities, earning badges, trophies, and a certificate.
 
 **AICTE EduSkills Virtual Internship**  
 Completed an internship focused on Generative AI, Deep Learning, and Language Models.
 
-**Python Programming — St. Xavier's College (Autonomous), Kolkata**  
-Completed a 42-hour certificate program covering NumPy, Pandas, and Matplotlib.
+**St. Xavier's College (Autonomous), Kolkata**  
+Completed a 42-hour Python Programming certificate covering NumPy, Pandas, and Matplotlib.
 
-**IEM Sustainability Hackathon 2026 — RightsQuest**  
-Project shortlisted for the hackathon presentation stage.
-
----
-
-## CURRENTLY EXPLORING
-
-- Strengthening data structures and algorithms.
-- Building a stronger foundation in software engineering.
-- Learning PyTorch and deep learning workflows.
-- Developing practical AI applications and improving project quality.
+**IEM Sustainability Hackathon 2026**  
+RightsQuest shortlisted for the hackathon presentation stage.
 
 ---
 
-## GITHUB ACTIVITY
+## 05 / CURRENTLY EXPLORING
+
+```text
+01   Data structures and algorithms
+02   Applied AI and Generative AI
+03   Deep learning with PyTorch
+04   Software engineering fundamentals
+05   Building and refining real-world projects
+```
+
+---
+
+## 06 / GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ankita06nandy&show_icons=true&hide_border=true&bg_color=F5F0E8&title_color=554438&text_color=66584B&icon_color=8B7562" alt="GitHub statistics" width="48%"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ankita06nandy&show_icons=true&hide_border=true&bg_color=F4EEE6&title_color=49372D&text_color=66574B&icon_color=8B7565&ring_color=8B7565" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita06nandy&layout=compact&hide_border=true&bg_color=F5F0E8&title_color=554438&text_color=66584B" alt="Most used languages" width="40%"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita06nandy&layout=compact&hide_border=true&bg_color=F4EEE6&title_color=49372D&text_color=66574B" alt="Most-used languages"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ankita06nandy&bg_color=F4EEE6&color=66574B&line=8B7565&point=49372D&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
+
+</div>
+
+---
+
+## 07 / CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ankita06nandy/ankita06nandy/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution snake"/>
 
 </div>
 
@@ -180,26 +189,18 @@ Project shortlisted for the hackathon presentation stage.
 
 Interested in AI, software engineering, and building useful things.
 
-[GitHub](https://github.com/ankita06nandy) · [Portfolio](PORTFOLIO_URL)
+<a href="https://github.com/ankita06nandy">
+<img src="https://img.shields.io/badge/GITHUB-49372D?style=flat-square&logo=github&logoColor=F4EEE6" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/PORTFOLIO-765C49?style=flat-square&logo=googlechrome&logoColor=F4EEE6" alt="Portfolio"/>
+</a>
 
-<br/>
+<br/><br/>
 
-<sub>Built with intention. Improved with every iteration.</sub>
+<sub>Designed around curiosity, engineering, and continuous improvement.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:49372D,50:765C49,100:B7A28B&height=90&section=footer" alt=""/>
 
 </div>
-
-
-<!--
-**ankita06nandy/ankita06nandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
